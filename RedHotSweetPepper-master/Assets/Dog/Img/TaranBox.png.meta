@@ -1,0 +1,3804 @@
+fileFormatVersion: 2
+guid: d26654fd29f537d429ddddfbe4d581b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 724180422591143981
+    second: TaranBox_0
+  - first:
+      213: 1197986996344553847
+    second: TaranBox_1
+  - first:
+      213: 1481025742736241459
+    second: TaranBox_2
+  - first:
+      213: 2565810538826609074
+    second: TaranBox_3
+  - first:
+      213: 9028996790771027568
+    second: TaranBox_4
+  - first:
+      213: 3760409789124722372
+    second: TaranBox_5
+  - first:
+      213: 5930195304194070033
+    second: TaranBox_6
+  - first:
+      213: 8927818921858549641
+    second: TaranBox_7
+  - first:
+      213: 8610951472981746395
+    second: TaranBox_8
+  - first:
+      213: 3984726629607950552
+    second: TaranBox_9
+  - first:
+      213: 1258455620080519232
+    second: TaranBox_10
+  - first:
+      213: 3812118876208188755
+    second: TaranBox_11
+  - first:
+      213: -8266384787688997514
+    second: TaranBox_12
+  - first:
+      213: 1278624788219439057
+    second: TaranBox_13
+  - first:
+      213: 5827766899074295232
+    second: TaranBox_14
+  - first:
+      213: -8278517780248243266
+    second: TaranBox_15
+  - first:
+      213: 4043545899156262684
+    second: TaranBox_16
+  - first:
+      213: 9103528125547692605
+    second: TaranBox_17
+  - first:
+      213: 2200378706947181663
+    second: TaranBox_18
+  - first:
+      213: 4574380473414844273
+    second: TaranBox_19
+  - first:
+      213: -8838278486334612146
+    second: TaranBox_20
+  - first:
+      213: -1635531781859647230
+    second: TaranBox_21
+  - first:
+      213: 7659666732859105344
+    second: TaranBox_22
+  - first:
+      213: -2157125612358756230
+    second: TaranBox_23
+  - first:
+      213: -2275510223175997876
+    second: TaranBox_24
+  - first:
+      213: -1979415698922490371
+    second: TaranBox_25
+  - first:
+      213: -9027642978657760932
+    second: TaranBox_26
+  - first:
+      213: -6667061923821345727
+    second: TaranBox_27
+  - first:
+      213: 4313029037072821103
+    second: TaranBox_28
+  - first:
+      213: -4528154289566779517
+    second: TaranBox_29
+  - first:
+      213: 7996636929774034690
+    second: TaranBox_30
+  - first:
+      213: -6822527548885585329
+    second: TaranBox_31
+  - first:
+      213: 3553065187949405156
+    second: TaranBox_32
+  - first:
+      213: -6118242332583382574
+    second: TaranBox_33
+  - first:
+      213: -2636678790762569963
+    second: TaranBox_34
+  - first:
+      213: 494114776789588750
+    second: TaranBox_35
+  - first:
+      213: -9199842397390439168
+    second: TaranBox_36
+  - first:
+      213: 7394027442360858855
+    second: TaranBox_37
+  - first:
+      213: 3630477295794086277
+    second: TaranBox_38
+  - first:
+      213: 2831025857367771892
+    second: TaranBox_39
+  - first:
+      213: 4497888980774252077
+    second: TaranBox_40
+  - first:
+      213: 4761678292819917749
+    second: TaranBox_41
+  - first:
+      213: -754248592812463873
+    second: TaranBox_42
+  - first:
+      213: 7096698950851591426
+    second: TaranBox_43
+  - first:
+      213: -2077730756804395767
+    second: TaranBox_44
+  - first:
+      213: -2232921530305055106
+    second: TaranBox_45
+  - first:
+      213: -4148728655719031906
+    second: TaranBox_46
+  - first:
+      213: 8366607387731815353
+    second: TaranBox_47
+  - first:
+      213: 5741093536037260803
+    second: TaranBox_48
+  - first:
+      213: -5335310120884612225
+    second: TaranBox_49
+  - first:
+      213: -5570466661498776775
+    second: TaranBox_50
+  - first:
+      213: 4722935543057669601
+    second: TaranBox_51
+  - first:
+      213: -1490397950382158778
+    second: TaranBox_52
+  - first:
+      213: 7363771025081778464
+    second: TaranBox_53
+  - first:
+      213: 3980117579367727768
+    second: TaranBox_54
+  - first:
+      213: -4470022708654986272
+    second: TaranBox_55
+  - first:
+      213: -2148144003158533825
+    second: TaranBox_56
+  - first:
+      213: 7288132623452120034
+    second: TaranBox_57
+  - first:
+      213: 4024502399098684938
+    second: TaranBox_58
+  - first:
+      213: 8944777394762800332
+    second: TaranBox_59
+  - first:
+      213: 2106280518002844578
+    second: TaranBox_60
+  - first:
+      213: 5399856481342064373
+    second: TaranBox_61
+  - first:
+      213: 154308661935161998
+    second: TaranBox_62
+  - first:
+      213: 2733629215780347052
+    second: TaranBox_63
+  - first:
+      213: -708381066365391209
+    second: TaranBox_64
+  - first:
+      213: 6495931651953042272
+    second: TaranBox_65
+  - first:
+      213: 431827215882135409
+    second: TaranBox_66
+  - first:
+      213: -8556752606444747007
+    second: TaranBox_67
+  - first:
+      213: -9018230816165464520
+    second: TaranBox_68
+  - first:
+      213: -2454320859829747296
+    second: TaranBox_69
+  - first:
+      213: 6545890717611914307
+    second: TaranBox_70
+  - first:
+      213: 7119469580084340324
+    second: TaranBox_71
+  - first:
+      213: -8521103873960322657
+    second: TaranBox_72
+  - first:
+      213: 6197002630242959968
+    second: TaranBox_73
+  - first:
+      213: 8586599872565676098
+    second: TaranBox_74
+  - first:
+      213: -8259921445898765301
+    second: TaranBox_75
+  - first:
+      213: 1410260091980963012
+    second: TaranBox_76
+  - first:
+      213: 744739128837247078
+    second: TaranBox_77
+  - first:
+      213: 6218082503203578068
+    second: TaranBox_78
+  - first:
+      213: -5974771663966743872
+    second: TaranBox_79
+  - first:
+      213: 3549944516585978791
+    second: TaranBox_80
+  - first:
+      213: 4150465504501674863
+    second: TaranBox_81
+  - first:
+      213: 350613611651441963
+    second: TaranBox_82
+  - first:
+      213: 268191703811647645
+    second: TaranBox_83
+  - first:
+      213: -3443674738419837738
+    second: TaranBox_84
+  - first:
+      213: 8898455675567129175
+    second: TaranBox_85
+  - first:
+      213: -8989411028866564001
+    second: TaranBox_86
+  - first:
+      213: 7555968217295303628
+    second: TaranBox_87
+  - first:
+      213: 4384850756411034753
+    second: TaranBox_88
+  - first:
+      213: -4495096035123150702
+    second: TaranBox_89
+  - first:
+      213: -7443571123962122261
+    second: TaranBox_90
+  - first:
+      213: -3020298511018990642
+    second: TaranBox_91
+  - first:
+      213: -6043285514510564345
+    second: TaranBox_92
+  - first:
+      213: 8442190257072379353
+    second: TaranBox_93
+  - first:
+      213: -653399608771087930
+    second: TaranBox_94
+  - first:
+      213: 4950260365807833630
+    second: TaranBox_95
+  - first:
+      213: -4787759773576877056
+    second: TaranBox_96
+  - first:
+      213: 2845378206451617901
+    second: TaranBox_97
+  - first:
+      213: 55593413606244283
+    second: TaranBox_98
+  - first:
+      213: -7105844596320552109
+    second: TaranBox_99
+  - first:
+      213: -9001570946644453359
+    second: TaranBox_100
+  - first:
+      213: -7327370514361599278
+    second: TaranBox_101
+  - first:
+      213: -747856122886945158
+    second: TaranBox_102
+  - first:
+      213: 6830931384745060704
+    second: TaranBox_103
+  - first:
+      213: 7590151356902583487
+    second: TaranBox_104
+  - first:
+      213: 6746016174909249119
+    second: TaranBox_105
+  - first:
+      213: -5369854553638645752
+    second: TaranBox_106
+  - first:
+      213: 8191518943320935722
+    second: TaranBox_107
+  - first:
+      213: -5551755449943375833
+    second: TaranBox_108
+  - first:
+      213: 4589773227450446069
+    second: TaranBox_109
+  - first:
+      213: 8365871426148198065
+    second: TaranBox_110
+  - first:
+      213: -5255338867827720261
+    second: TaranBox_111
+  - first:
+      213: 8398553927426726926
+    second: TaranBox_112
+  - first:
+      213: 7446298176114647557
+    second: TaranBox_113
+  - first:
+      213: 5560683377477770736
+    second: TaranBox_114
+  - first:
+      213: -3009348792257188215
+    second: TaranBox_115
+  - first:
+      213: 1829091592753692462
+    second: TaranBox_116
+  - first:
+      213: -8723815691931529919
+    second: TaranBox_117
+  - first:
+      213: -2138568969574716258
+    second: TaranBox_118
+  - first:
+      213: -3203870548816368772
+    second: TaranBox_119
+  - first:
+      213: -8645294227907344914
+    second: TaranBox_120
+  - first:
+      213: 5523574277085481466
+    second: TaranBox_121
+  - first:
+      213: 3290619878173362970
+    second: TaranBox_122
+  - first:
+      213: -1867885444444339942
+    second: TaranBox_123
+  - first:
+      213: -844026855005314387
+    second: TaranBox_124
+  - first:
+      213: -6510257178370119721
+    second: TaranBox_125
+  - first:
+      213: 3843238108306699029
+    second: TaranBox_126
+  - first:
+      213: -5537116994441409601
+    second: TaranBox_127
+  - first:
+      213: 8345201836699524185
+    second: TaranBox_128
+  - first:
+      213: -2380653814381301091
+    second: 1
+  - first:
+      213: 4578073405365800678
+    second: TaranBox_130
+  - first:
+      213: -4096439144823407901
+    second: TaranBox_131
+  - first:
+      213: -5902559795313278741
+    second: TaranBox_132
+  - first:
+      213: 7714654149488861619
+    second: TaranBox_133
+  - first:
+      213: 8509742600131278175
+    second: TaranBox_134
+  - first:
+      213: -4289161620516324682
+    second: TaranBox_135
+  - first:
+      213: 1724236011466864939
+    second: TaranBox_136
+  - first:
+      213: -7638412184189422291
+    second: TaranBox_137
+  - first:
+      213: 3548517910823984712
+    second: TaranBox_138
+  - first:
+      213: 2752156813176428952
+    second: TaranBox_139
+  - first:
+      213: -6752835047015065503
+    second: TaranBox_140
+  - first:
+      213: -5323865356965977670
+    second: TaranBox_141
+  - first:
+      213: 7134938514089676104
+    second: TaranBox_142
+  - first:
+      213: -6324181479563366187
+    second: TaranBox_143
+  - first:
+      213: 2171678194835465298
+    second: TaranBox_144
+  - first:
+      213: -8628270419584242199
+    second: TaranBox_145
+  - first:
+      213: -7109377368372485190
+    second: TaranBox_146
+  - first:
+      213: -801867449995163252
+    second: TaranBox_147
+  - first:
+      213: 6366835630416505039
+    second: TaranBox_148
+  - first:
+      213: 1864467549202509543
+    second: 2
+  - first:
+      213: -5613648722636845875
+    second: 3
+  - first:
+      213: 5667066228946054352
+    second: 4
+  - first:
+      213: -7079508244672254758
+    second: 5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TaranBox_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 986
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2066d9e14ecc0a00800000000000000
+      internalID: 724180422591143981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 988
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77187a273da10a010800000000000000
+      internalID: 1197986996344553847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 981
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333b003f019ad8410800000000000000
+      internalID: 1481025742736241459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 981
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1b6bf37179b9320800000000000000
+      internalID: 2565810538826609074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 895
+        width: 112
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e8c085eb07d4d70800000000000000
+      internalID: 9028996790771027568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 974
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce3eaa97c8af2430800000000000000
+      internalID: 3760409789124722372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 964
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1165d2ba5394c4250800000000000000
+      internalID: 5930195304194070033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 974
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987c360020cf5eb70800000000000000
+      internalID: 8927818921858549641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 968
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2243dedbe308770800000000000000
+      internalID: 8610951472981746395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 965
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d842d4f1c79c4730800000000000000
+      internalID: 3984726629607950552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 961
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0484e7808bee67110800000000000000
+      internalID: 1258455620080519232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 958
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d43f1abed57e430800000000000000
+      internalID: 3812118876208188755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 937
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dba1135d6e74d80800000000000000
+      internalID: -8266384787688997514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 935
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d724de68769eb110800000000000000
+      internalID: 1278624788219439057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 918
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c56a1d2e1360e050800000000000000
+      internalID: 5827766899074295232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 933
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb35c89b0fbcc1d80800000000000000
+      internalID: -8278517780248243266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 929
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f4238529f8d1830800000000000000
+      internalID: 4043545899156262684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 883
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d324c0ef89a365e70800000000000000
+      internalID: 9103528125547692605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_18
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 924
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c8bee96c0598e10800000000000000
+      internalID: 2200378706947181663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_19
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 917
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fff51fdc67b7f30800000000000000
+      internalID: 4574380473414844273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_20
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 917
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d5c0c3b80285580800000000000000
+      internalID: -8838278486334612146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_21
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 911
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201e463828c6d49e0800000000000000
+      internalID: -1635531781859647230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_22
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 889
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040a1f59f4a9c4a60800000000000000
+      internalID: 7659666732859105344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_23
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 894
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78957b3fa95012e0800000000000000
+      internalID: -2157125612358756230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 897
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4623d81283cb60e0800000000000000
+      internalID: -2275510223175997876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_25
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 899
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5b4e2c8e3b784e0800000000000000
+      internalID: -1979415698922490371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_26
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 888
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c590e0a9a8e57b280800000000000000
+      internalID: -9027642978657760932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_27
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 898
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144a81ff086d973a0800000000000000
+      internalID: -6667061923821345727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 869
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6babacce05fadb30800000000000000
+      internalID: 4313029037072821103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 874
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387f5323aa3c821c0800000000000000
+      internalID: -4528154289566779517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 877
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f93fc6be2c9fe60800000000000000
+      internalID: 7996636929774034690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_31
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 878
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42bb5277538151a0800000000000000
+      internalID: -6822527548885585329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_32
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 883
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3e787a6f50f4130800000000000000
+      internalID: 3553065187949405156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_33
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 880
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d13c9ca303a71ba0800000000000000
+      internalID: -6118242332583382574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_34
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 800
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f5ac90c92a86bd0800000000000000
+      internalID: -2636678790762569963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_35
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 871
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b90d485c27bd600800000000000000
+      internalID: 494114776789588750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_36
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 854
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00df6f91518935080800000000000000
+      internalID: -9199842397390439168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 780
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8b86998ccdc9660800000000000000
+      internalID: 7394027442360858855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 856
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5816dec8ddb026230800000000000000
+      internalID: 3630477295794086277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 858
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa0a529403d94720800000000000000
+      internalID: 2831025857367771892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_40
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 855
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e613a7236bb6e30800000000000000
+      internalID: 4497888980774252077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 836
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb383acd21e41240800000000000000
+      internalID: 4761678292819917749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_42
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 843
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff82319a6ee5885f0800000000000000
+      internalID: -754248592812463873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_43
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 836
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d756b881a8c7260800000000000000
+      internalID: 7096698950851591426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_44
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 787
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d35cd82ea6a23e0800000000000000
+      internalID: -2077730756804395767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_45
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 807
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7678ded2b11301e0800000000000000
+      internalID: -2232921530305055106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 791
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b126eb441cc66c0800000000000000
+      internalID: -4148728655719031906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_47
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 787
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbe9e847192c1470800000000000000
+      internalID: 8366607387731815353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_48
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 787
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ecac547267caf40800000000000000
+      internalID: 5741093536037260803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_49
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 780
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73502676bb25f5b0800000000000000
+      internalID: -5335310120884612225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_50
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 779
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9339530c51ab1b2b0800000000000000
+      internalID: -5570466661498776775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_51
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 766
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edd40d6adc3b8140800000000000000
+      internalID: 4722935543057669601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 757
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c4089e5fa015be0800000000000000
+      internalID: -1490397950382158778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_53
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 682
+        width: 107
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021405d7bbe513660800000000000000
+      internalID: 7363771025081778464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_54
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 679
+        width: 83
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8924082d9d73c3730800000000000000
+      internalID: 3980117579367727768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_55
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 687
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eba0b8970a47f1c0800000000000000
+      internalID: -4470022708654986272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 757
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39995519624032e0800000000000000
+      internalID: -2148144003158533825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 760
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3acc0c106a42560800000000000000
+      internalID: 7288132623452120034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_58
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 744
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a060cf7fb97e9d730800000000000000
+      internalID: 4024502399098684938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_59
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 746
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccd7c926ab322c70800000000000000
+      internalID: 8944777394762800332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_60
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 748
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3a2e8b8f20b3d10800000000000000
+      internalID: 2106280518002844578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_61
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 718
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f60c703cd420fa40800000000000000
+      internalID: 5399856481342064373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_62
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 724
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82496419e6342200800000000000000
+      internalID: 154308661935161998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 732
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac9732d94dcfe520800000000000000
+      internalID: 2733629215780347052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_64
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 689
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eadad5c235b26f0800000000000000
+      internalID: -708381066365391209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_65
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 714
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063a0e7ab6f262a50800000000000000
+      internalID: 6495931651953042272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_66
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 712
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177200f90982ef500800000000000000
+      internalID: 431827215882135409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_67
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 705
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10786fd07de404980800000000000000
+      internalID: -8556752606444747007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_68
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 703
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836f9f37adec8d280800000000000000
+      internalID: -9018230816165464520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_69
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 701
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a144097e2080fdd0800000000000000
+      internalID: -2454320859829747296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344f8c11deca7da50800000000000000
+      internalID: 6545890717611914307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_71
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 686
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466602eccdf6dc260800000000000000
+      internalID: 7119469580084340324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_72
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 680
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99d3626c25feb980800000000000000
+      internalID: -8521103873960322657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_73
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 679
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0620bcf1f0d200650800000000000000
+      internalID: 6197002630242959968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_74
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 596
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24801b0271bb92770800000000000000
+      internalID: 8586599872565676098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_75
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 673
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cb298353dde5d80800000000000000
+      internalID: -8259921445898765301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_76
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 658
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc5f6fe410429310800000000000000
+      internalID: 1410260091980963012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_77
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 658
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6609da8ba48d55a00800000000000000
+      internalID: 744739128837247078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_78
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 576
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0658387111b4650800000000000000
+      internalID: 6218082503203578068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_79
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 664
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2513bc3d8551da0800000000000000
+      internalID: -5974771663966743872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_80
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 666
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abf37bbabfe34130800000000000000
+      internalID: 3549944516585978791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_81
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 659
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63b550e26a699930800000000000000
+      internalID: 4150465504501674863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_82
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 653
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25a6efd831add400800000000000000
+      internalID: 350613611651441963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_83
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 638
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9866650feec8b300800000000000000
+      internalID: 268191703811647645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_84
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 627
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4df7e121c9530d0800000000000000
+      internalID: -3443674738419837738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_85
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 649
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752ccb77a4aad7b70800000000000000
+      internalID: 8898455675567129175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_86
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 646
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f500e641c423f3380800000000000000
+      internalID: -8989411028866564001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_87
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 638
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc337067f013cd860800000000000000
+      internalID: 7555968217295303628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_88
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 588
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c8bf0f78e1adc30800000000000000
+      internalID: 4384850756411034753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_89
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 628
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290c73bd8f53e91c0800000000000000
+      internalID: -4495096035123150702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_90
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 633
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befe1ef108f13b890800000000000000
+      internalID: -7443571123962122261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_91
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 629
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec36217a18eb516d0800000000000000
+      internalID: -3020298511018990642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_92
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 585
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704855fd7dfe12ca0800000000000000
+      internalID: -6043285514510564345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_93
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 597
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d510176f4fa82570800000000000000
+      internalID: 8442190257072379353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_94
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 597
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1f1d68488aee6f0800000000000000
+      internalID: -653399608771087930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_95
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 585
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12dba9339bd2b440800000000000000
+      internalID: 4950260365807833630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_96
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 588
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cab024ad57e8db0800000000000000
+      internalID: -4787759773576877056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_97
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 583
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60df2f3760dc7720800000000000000
+      internalID: 2845378206451617901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_98
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 502
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbff9d54ae185c000800000000000000
+      internalID: 55593413606244283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 526
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b3f2fecf7f26d90800000000000000
+      internalID: -7105844596320552109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_100
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 565
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118d7c89aeef31380800000000000000
+      internalID: -9001570946644453359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_101
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 570
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da3ec9d653ff4a90800000000000000
+      internalID: -7327370514361599278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_102
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 545
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76093c81d41f95f0800000000000000
+      internalID: -747856122886945158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_103
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 496
+        width: 102
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069ebc017e75cce50800000000000000
+      internalID: 6830931384745060704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_104
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 473
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbca0abd172a55960800000000000000
+      internalID: 7590151356902583487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_105
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 554
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56518a18f9ae9d50800000000000000
+      internalID: 6746016174909249119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_106
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 514
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800dad2fbb17a75b0800000000000000
+      internalID: -5369854553638645752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_107
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 530
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d0783141f1ea170800000000000000
+      internalID: 8191518943320935722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_108
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 493
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720494e25d334f2b0800000000000000
+      internalID: -5551755449943375833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_109
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 533
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f038c5ce6622bf30800000000000000
+      internalID: 4589773227450446069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_110
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 528
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b66720ecbb891470800000000000000
+      internalID: 8365871426148198065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_111
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 506
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf33d8c4294117b0800000000000000
+      internalID: -5255338867827720261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_112
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 507
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c5b3fac48ad8470800000000000000
+      internalID: 8398553927426726926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_113
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 454
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502e3fe2db0965760800000000000000
+      internalID: 7446298176114647557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_114
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 410
+        width: 90
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd5bfee1148b2d40800000000000000
+      internalID: 5560683377477770736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_115
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 402
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e6248b735ac36d0800000000000000
+      internalID: -3009348792257188215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_116
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 426
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fbcb7dc1d326910800000000000000
+      internalID: 1829091592753692462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d417459d7cee680800000000000000
+      internalID: -8723815691931529919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_118
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 397
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c63d05ad64252e0800000000000000
+      internalID: -2138568969574716258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_119
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 331
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7be67fe5b09983d0800000000000000
+      internalID: -3203870548816368772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_120
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 331
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee509d654beb50880800000000000000
+      internalID: -8645294227907344914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_121
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 355
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af94a243a8da7ac40800000000000000
+      internalID: 5523574277085481466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_122
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 354
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bcc514851aaad20800000000000000
+      internalID: 3290619878173362970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_123
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 355
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11c5c2b510f316e0800000000000000
+      internalID: -1867885444444339942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_124
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 357
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2a4861c0a6944f0800000000000000
+      internalID: -844026855005314387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_125
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 302
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7efcec69be6a5a0800000000000000
+      internalID: -6510257178370119721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_126
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 290
+        width: 102
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5137dd872bce55530800000000000000
+      internalID: 3843238108306699029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_127
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 345
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb8a823e653823b0800000000000000
+      internalID: -5537116994441409601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_128
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 284
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c996f0bdc10d370800000000000000
+      internalID: 8345201836699524185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 124
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92bf9418f736fed0800000000000000
+      internalID: -2380653814381301091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_130
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 260
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eecd7aa185988f30800000000000000
+      internalID: 4578073405365800678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_131
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 260
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eabbc83d468627c0800000000000000
+      internalID: -4096439144823407901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_132
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 213
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be089d6a325e51ea0800000000000000
+      internalID: -5902559795313278741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_133
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 189
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1e6413315ff0b60800000000000000
+      internalID: 7714654149488861619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_134
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 189
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5575daeecda81670800000000000000
+      internalID: 8509742600131278175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_135
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 142
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bab2e82b36d974c0800000000000000
+      internalID: -4289161620516324682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_136
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 135
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b293b6c5487bde710800000000000000
+      internalID: 1724236011466864939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_137
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25bf59a698eef590800000000000000
+      internalID: -7638412184189422291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 152
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e56c13d3ede3130800000000000000
+      internalID: 3548517910823984712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 118
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8995d8f3a00a13620800000000000000
+      internalID: 2752156813176428952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_140
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 118
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168dbd38d4c1942a0800000000000000
+      internalID: -6752835047015065503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_141
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 79
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1e8063aa4dd16b0800000000000000
+      internalID: -5323865356965977670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_142
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 105
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d819aa6c4640360800000000000000
+      internalID: 7134938514089676104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_143
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 47
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d07587837efb38a0800000000000000
+      internalID: -6324181479563366187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_144
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 47
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25421a9efc9532e10800000000000000
+      internalID: 2171678194835465298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_145
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 71
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edaba694c9324880800000000000000
+      internalID: -8628270419584242199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3e4f753fa665d90800000000000000
+      internalID: -7109377368372485190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_147
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 69
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89071e7dc13fd4f0800000000000000
+      internalID: -801867449995163252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaranBox_148
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8a64ed54b8b5850800000000000000
+      internalID: 6366835630416505039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 136
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee657d8b5befd910800000000000000
+      internalID: 1864467549202509543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 487
+        width: 140
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccc769aa305812b0800000000000000
+      internalID: -5613648722636845875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 628
+        width: 146
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc21f6b5b675ae40800000000000000
+      internalID: 5667066228946054352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 743
+        width: 150
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc6cd3a2c880cd90800000000000000
+      internalID: -7079508244672254758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/SampleSceneHex.unity
+    guid: 8ba7575340cfd0341bedf33381ef492a
+  - enabled: 0
+    path: Assets/Scenes/SampleSceneDiagonals.unity
+    guid: 07898cb16d4a65b48b1db8785e889cce
+  - enabled: 0
+    path: Assets/Scenes/SampleSceneIsometric.unity
+    guid: c85b50703ba4bed4ab7dce890ad33433
+  - enabled: 0
+    path: Assets/Scenes/SampleSceneNoTileMap.unity
+    guid: 3d5a83a03ebfcbd45bc258409f297f5e
+  - enabled: 0
+    path: Assets/Scenes/SampleSceneRuntime.unity
+    guid: de86a38ac98734846b15e20dbcac0741
+  - enabled: 1
+    path: Assets/Dog/Scenes/Home.unity
+    guid: ad59252a35f7d284cbc1447ab2fef7a8
+  - enabled: 1
+    path: Assets/Dog/Scenes/SelectLevel.unity
+    guid: f3af0c2bf786ac7429a64357a4459e20
+  - enabled: 1
+    path: Assets/Dog/Scenes/GamePlay.unity
+    guid: 2af4c5e9c06e1d048b2ac4f4ed0f4000
+  m_configObjects: {}

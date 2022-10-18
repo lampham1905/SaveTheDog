@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7fd4fab772929f140a333f0ed7658f2f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lineRenderer: {instanceID: 0}
+  - lineBakedMesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+  - mesh: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
